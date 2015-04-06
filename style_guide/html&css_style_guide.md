@@ -4,7 +4,7 @@
 
 Settings in this section could be done by configurating your text editor.
 
-### 1. Indention,
+### Indention,
 
 Use **4 spaces** for indention, do not use tab. Please config your editor tranlate tabs to spaces.
 
@@ -20,11 +20,11 @@ Use **4 spaces** for indention, do not use tab. Please config your editor tranla
 }
 ```
 
-### 2. Trailing Whitespace
+### Trailing Whitespace
 
 Remove trailing spaces when saving the file.
 
-### 3. New line At End Of Files
+### New line At End Of Files
 
 Ensure there is be a new line at the end of the file when saving.
 
@@ -33,7 +33,7 @@ Ensure there is be a new line at the end of the file when saving.
 
 ## HTML
 
-### 1. Document Type
+### Document Type
 Use the HTML5 doctype
 
 ```html
@@ -43,7 +43,7 @@ Use the HTML5 doctype
 </html>
 ```
 
-### 2. Encoding
+### Encoding
 
 Use UTF-8 (no BOM). Specify the encoding in HTML templates and documents via `<meta charset="utf-8">`
 
