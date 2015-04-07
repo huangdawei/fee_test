@@ -2,7 +2,7 @@
 
 A mostly reasonable approach to JavaScript
 
-> This guide is a fork of [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#the-javascript-style-guide-guide) (Updateed at April 4, 2015)
+> This guide is a fork of [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#the-javascript-style-guide-guide) (Updated at April 4, 2015)
 
 ## Table of Contents
 
