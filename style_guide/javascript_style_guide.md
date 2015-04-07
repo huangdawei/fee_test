@@ -2,7 +2,7 @@
 
 A mostly reasonable approach to JavaScript
 
-> This guide is a fork of [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#the-javascript-style-guide-guide)
+> This guide is a fork of [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#the-javascript-style-guide-guide) (Updateed at April 4, 2015)
 
 ## Table of Contents
 
@@ -862,7 +862,7 @@ A mostly reasonable approach to JavaScript
             .updateCount();
 
     // bad
-    var leds = stage.selectAll('.led').data(data).enter().append('svg:svg').class('led', true)
+    var leds = stage.selectAll('.led').data(data).enter().append('svg:svg').classed('led', true)
         .attr('width',  (radius + margin) * 2).append('svg:g')
         .attr('transform', 'translate(' + (radius + margin) + ',' + (radius + margin) + ')')
         .call(tron.led);
@@ -871,7 +871,7 @@ A mostly reasonable approach to JavaScript
     var leds = stage.selectAll('.led')
             .data(data)
         .enter().append('svg:svg')
-            .class('led', true)
+            .classed('led', true)
             .attr('width',  (radius + margin) * 2)
         .append('svg:g')
             .attr('transform', 'translate(' + (radius + margin) + ',' + (radius + margin) + ')')
