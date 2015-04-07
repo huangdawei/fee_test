@@ -2,7 +2,7 @@
 
 ## 1. General
 
-This guide is a practice for writing HTML and CSS with uniform style, aims at improving collaboration in front-end engineering. It comes from [Google HTML/CSS Style Guide](https://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#CSS_Style_Rules), [GitHub](http://primercss.io/guidelines/) and [idiomatic CSS](https://github.com/necolas/idiomatic-css).
+This guide is a practice for writing HTML and CSS with uniform style, aims at improving collaboration in front-end engineering. It references to [Google HTML/CSS Style Guide](https://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#CSS_Style_Rules), [GitHub](http://primercss.io/guidelines/) and [idiomatic CSS](https://github.com/necolas/idiomatic-css).
 
 When you are editing, look at the code around you and follow it's style at first, not kick off your own.
 
