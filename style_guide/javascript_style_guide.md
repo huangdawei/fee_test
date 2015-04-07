@@ -49,6 +49,7 @@
     + `null`
     + `undefined`
 
+
     ```javascript
     var foo = 1;
     var bar = foo;
@@ -62,6 +63,7 @@
     + `object`
     + `array`
     + `function`
+
 
     ```javascript
     var foo = [1, 2];
