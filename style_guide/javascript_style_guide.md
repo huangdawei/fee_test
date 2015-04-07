@@ -1,9 +1,8 @@
 # JavaScript Style Guide
 
+A mostly reasonable approach to JavaScript
+
 > This guide is a fork of [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#the-javascript-style-guide-guide)
-
-*A mostly reasonable approach to JavaScript*
-
 
 ## Table of Contents
 
